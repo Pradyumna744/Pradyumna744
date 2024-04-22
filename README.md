@@ -30,11 +30,5 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="www.linkedin.com/in/pradyumna-marathe-775364226"><img src="#"/></a>
-<a href="mailto:marathepradyumna744@gmail.com"><img src="#"/></a>
-<a href="https://instagram.com/adityavs_"><img src="#"/></a>
 
 </p>
