@@ -1,4 +1,3 @@
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradyumna Marathe</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -27,8 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
+![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-ML-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 </p>
