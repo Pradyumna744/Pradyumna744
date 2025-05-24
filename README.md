@@ -1,40 +1,94 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradyumna Marathe</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradyumna Marathe</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Master Of Computer Application in North Maharashtra University.\
-🌱 &nbsp;I'm on track for learning more about Web Development.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💡 &nbsp;I'm a passionate **Machine Learning Engineer** specializing in deep learning, NLP, and AI applications.\
+🎓 &nbsp;Currently pursuing **Integrated Master in Computer Application** at R. C. Patel Institute of Management Research and Development.\
+🔬 &nbsp;I'm focused on advancing **ML research and deployment**, with expertise in OCR systems and healthcare AI solutions.\
+🚀 &nbsp;Currently working at **ARNISH AI PRIVATE LIMITED** leading teams in developing cutting-edge AI applications.\
+🏥 &nbsp;Specialized in **medical document processing** and **OCR-based systems** for healthcare workflows.\
+💬 &nbsp;Feel free to reach out to me for AI/ML consulting, collaboration, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marathepradyumna744@gmail.com! I'll try to respond as soon as I can.\
+📍 &nbsp;Based in **Shirpur, Maharashtra**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-Visit the live website: **[Portfolio Website](https://portfolio-pradyumna-website.netlify.app/)**
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
+**Programming Languages:**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+**Machine Learning & AI:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-05122A?style=flat)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+
+**Frameworks & Libraries:**
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat)&nbsp;
+
+**Web Development:**
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
+**Tools & Technologies:**
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-ML-05122A?style=flat&logo=scikit-learn)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
-[![Live Website](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge&logo=netlify)](https://portfolio-pradyumna-website.netlify.app/)
+### 🚀 &nbsp;Current Work & Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=google-chrome)](https://portfolio-pradyumna-website.netlify.app/)
+**🏢 Machine Learning Engineer at ARNISH AI PRIVATE LIMITED**
+- Leading development of **OCR-based medical prescription systems**
+- Implementing **deep learning models** using TensorFlow and PyTorch
+- Deploying scalable AI solutions with **Docker and Flask**
+- Managing **healthcare AI compliance** and system integration
 
+**🔬 Recent Projects:**
+- **Document OCR System**: Automated PDF to Excel conversion with 40% efficiency improvement
+- **Medical Prescriptions OCR**: High-accuracy handwritten and printed medical document recognition
+- **Healthcare AI Workflows**: Reducing manual data entry errors in medical processes
+
+### 🎯 &nbsp;Expertise Areas
+
+🧠 **Deep Learning & Neural Networks** (CRNN, Transformers)\
+📝 **Natural Language Processing** (Text Extraction, Entity Recognition)\
+👁️ **Computer Vision** (OCR, Image Preprocessing)\
+🏥 **Healthcare AI** (Medical Document Processing)\
+🐳 **MLOps** (Docker, Model Deployment, Scalability)\
+👥 **Team Leadership** (AI Project Management)
+
+### 🌐 Portfolio & Links
+
+[![Live Website](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-success?style=for-the-badge&logo=netlify)](https://portfolio-pradyumna-website.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/pradyumna744)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/Pradyumna744)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:marathepradyumna744@gmail.com)&nbsp;
+
+### 📊 &nbsp;GitHub Stats
+
+<p align="center">
+<a href="https://github.com/Pradyumna744">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pradyumna744&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pradyumna744&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+---
+⭐️ From [Pradyumna744](https://github.com/Pradyumna744) | 🚀 Building the future with AI
