@@ -30,4 +30,8 @@
 ![Machine Learning](https://img.shields.io/badge/-ML-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
+[![Live Website](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge&logo=netlify)](https://portfolio-pradyumna-website.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=google-chrome)](https://portfolio-pradyumna-website.netlify.app/)
+
 </p>
